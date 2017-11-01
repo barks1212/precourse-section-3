@@ -1,3 +1,3 @@
-document.getElementById('title').addEventListener('click', function() {
-    console.log('title was clicked');
+document.getElementById('button').addEventListener('click', function(){
+    alert('Must learn how to stream music on own site \n :\(');
 });
